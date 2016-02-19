@@ -147,12 +147,12 @@ public class Character
     {
         secondaryWeapon = wep;
     }
-    
+
     public String getPrimaryWeapon()
     {
         return primaryWeapon;
     }
-    
+
     public String getSecondaryWeapon()
     {
         return secondaryWeapon;
