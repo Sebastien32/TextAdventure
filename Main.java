@@ -637,7 +637,7 @@ public class Main
         {
             System.out.println("\t1) Magic missile: Does 1-4 damage. Costs " + smallCost);
             System.out.println("\t2) Healing aura: Returns 1-4 health. Costs " + smallCost);
-            System.out.println("\t3) Rain of Fire: Does 1-2 damage to all enemies. Costs " + smallCost);      
+            System.out.println("\t3) Rain of Fire: Does 1-2 damage to all enemies. Costs " + smallCost);
         }
         if(player.getRole().equals("Rogue"))
         {
